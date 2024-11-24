@@ -1,5 +1,7 @@
 # applied_statistics24_25
 
+![lecture](https://github.com/user-attachments/assets/d88a1f95-b2cb-4e3a-9710-a58893718b49)
+
 # My Assessment Repository.
 ### by Jean-Samuel Bonsenge-Bokanga(G00387887@atu.ie)
 
@@ -11,11 +13,6 @@ For the purpose of the above assessment, I have to demonstrate the following:
 2. Source documentation to programmatically perform a statistical test,
 3. Select an appropriate statistical test to investigate a claim, and
 4. Perform a statistical test on a data set.
-
-## Getting Started
-
-1. Clone this repository.
-2. Run the code.
 
 # Tasks
 ## Instructions
@@ -76,4 +73,4 @@ Your task is to perform t-tests and ANOVA on this dataset while describing the d
 Explain why it is more appropriate to apply ANOVA rather than several t-tests when analyzing more than two groups.
 
 
-# The End.
+# End.
