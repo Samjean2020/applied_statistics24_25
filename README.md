@@ -72,5 +72,20 @@ Your task is to perform t-tests and ANOVA on this dataset while describing the d
 
 Explain why it is more appropriate to apply ANOVA rather than several t-tests when analyzing more than two groups.
 
+## How to run the programs:
+* Set up a-Python 3.12.4 friendly environment and import its various libraries including Numpy, SciPy, MatplotLib.pyplot, Seaborn and Pandas downloaded from Anaconda 3. 
+* Use Jupiter Notebook text-editor to run all the programs (tasks.ipynb and project.ipynb). Make sure the Jupiter Notebook Kernel is ready and Trusted when running the programs. Save the file at Save and Checkpoint when you finish running the programs.
+*You can also run the program on command line on Cmder (Console Emulator) and VSC (Visual Studio Code) console, Codespaces via GitHub account(GitHub Codespaces gets you up and coding faster with fully configured, secure cloud development environments native to GitHub), and other text editors. 
+* Note that both programs, tasks.ipynb and project.ipynb are written under Windows OS (Operation Systems); in which relevant commands are required for the OS functionality.
+* Download the dataset PlantGrowth R csv file or their URL: PlantGrowth function - RDocumentation for data manipulation, analysis and visualisation, using Pandas DataFrame() function.
+* Use the dataset provided on the assessment description for Task 3: t-Test Calculation
+for Patients Resting Heart Beat rates before and after embarking on a two-week exercise program, data manipulation, analysis and data visualization using Pandas for DataFrame and sciPy-stats for t-Tests and ANOVA computations and operations. Matplolib.pyplot has been used for several plotting within both notebooks.
+* Regarding images included in both Jupiter Notebooks, they are available online and from the lecture notes.
+
+## Credits
+I have used extensive online sources to build-up this repository. References included on each Jupiter Notebook are useful and can be consulted if there is a need to go further on Applied Statistics, particularly with SciPy-Stats on performing t-tests and ANOVA. I have also used Laerd Statistics (SPSS) for Assumptions. Their link address is: https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php. You can also access SPSS Statistics Tutorials and Statistical Guides via the following link: https://statistics.laerd.com/.
+
+## Conclusion and lessons learned
+tasks.ipynb and project.ipynb are both programs included in this repository for Applied Statistics Assessment. They are written in Python Programming Language. I have included a requirements.txt file on how to run both Notebooks. As lessons learned, I have deepened my understanding on how to perform t-Tests and ANOVA on datasets and probability error I and error II, from the Lady Tasting Tea experiment (altered) in performing permutations and Combinations, and furthermore.
 
 # End.
