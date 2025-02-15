@@ -1,7 +1,5 @@
 # applied_statistics24_25
 
-![lecture](https://github.com/user-attachments/assets/d88a1f95-b2cb-4e3a-9710-a58893718b49)
-
 # My Assessment Repository.
 ### by Jean-Samuel Bonsenge-Bokanga(G00387887@atu.ie)
 
@@ -79,13 +77,12 @@ Explain why it is more appropriate to apply ANOVA rather than several t-tests wh
 * Note that both programs, tasks.ipynb and project.ipynb are written under Windows OS (Operation Systems); in which relevant commands are required for the OS functionality.
 * Download the dataset PlantGrowth R csv file or their URL: PlantGrowth function - RDocumentation for data manipulation, analysis and visualisation, using Pandas DataFrame() function.
 * Use the dataset provided on the assessment description for Task 3: t-Test Calculation
-for Patients Resting Heart Beat rates before and after embarking on a two-week exercise program, data manipulation, analysis and data visualization using Pandas for DataFrame and sciPy-stats for t-Tests and ANOVA computations and operations. Matplolib.pyplot has been used for several plotting within both notebooks.
-* Regarding images included in both Jupiter Notebooks, they are available online and from the lecture notes.
+for Patients Resting Heart Beat rates before and after embarking on a two-week exercise program, data manipulation, analysis and data visualization using Pandas for DataFrame and sciPy-stats for t-Tests and ANOVA computations and operations. Matplolib.pyplot has been used for several plotting within both notebooks.  
 
 ## Credits
 I have used extensive online sources to build-up this repository. References included on each Jupiter Notebook are useful and can be consulted if there is a need to go further on Applied Statistics, particularly with SciPy-Stats on performing t-tests and ANOVA. I have also used Laerd Statistics (SPSS) for Assumptions. Their link address is: https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php. You can also access SPSS Statistics Tutorials and Statistical Guides via the following link: https://statistics.laerd.com/.
 
 ## Conclusion and lessons learned
-tasks.ipynb and project.ipynb are both programs included in this repository for Applied Statistics Assessment. They are written in Python Programming Language. I have included a requirements.txt file on how to run both Notebooks. As lessons learned, I have deepened my understanding on how to perform t-Tests and ANOVA on datasets and probability error I and error II, from the Lady Tasting Tea experiment (altered) in performing permutations and Combinations, and furthermore.
+tasks.ipynb and project.ipynb are both programs included in this repository for Applied Statistics Assessment. They are written in Python Programming Language. I have included a requirements.txt file on how to run both Notebooks. As lessons learned, I have deepened my understanding on how to perform t-Tests and ANOVA on datasets and probability error I and error II, from the Lady Testing Tea experiment (altered) in performing permutations and Combinations, and furthermore.
 
 # End.
